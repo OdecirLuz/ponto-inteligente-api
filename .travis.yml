@@ -3,4 +3,4 @@ sudo: true
 jdk:
   - oraclejdk8
 before_install:
-  - chmod +s mvnw
+  - chmod +x mvnw
